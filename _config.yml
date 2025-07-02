@@ -1,2 +1,28 @@
 title: Yushen Liu
+#logo: /assets/img/profile.png   # replace with your actual image path
+description: >
+  Undergraduate Student
+  University of Virginia
+  ✉️ ftx6hx@virginia.edu
+
+# Theme and URL settings
 theme: jekyll-theme-minimal
+url: "https://hudl1e.github.io"
+baseurl: ""  # leave this blank for user pages
+
+# Social links (optional icons)
+github_username: hudl1e
+linkedin_username: your-linkedin
+twitter_username: your-twitter
+cv_url: /assets/YushenLiu_CV.pdf   # make sure this file exists
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude folders you don't want Jekyll to process
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
