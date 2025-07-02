@@ -22,7 +22,7 @@ I'm Super passionate about learning new skills and working with others, and I co
 
 ---
 
-## Services
+## Research team
 
 #### **Conference/Workshop Roles**
 - Reviewer or committee member at conferences like **XYZ** (Years).
@@ -30,35 +30,22 @@ I'm Super passionate about learning new skills and working with others, and I co
 
 ---
 
-## Education & Experience
+## Education
 
-- **Ph.D. in [Field]** — *[Institution]* (Start Year – )  
-  Advised by **Prof. X**
-- **B.Eng. in [Field] & B.Sc in [Field]** — *[University]* (Year)
-- Internship at **[Organization]** (e.g., “Research Intern at Microsoft Research Asia”).
-- Exchange at **[Institution]**, supervised by **Prof. Y**.
+- **B.A. in Mathematics & B.A in Computer Science** — *University of Virginia* (2022-2026)
 
 ---
 
-## Misc
+## Esports & Gaming Experience
 
-- ✔️ Real/legal name(s) in other languages/scripts (if relevant).
-- ✔️ Fun fact or personal tidbit (e.g., “I share my name with actor…”).
-- ✔️ Tech you use daily (e.g., Python, Rust) and note that you release open-source code.
-- Logos of key tools or frameworks.
+I’m an active gamer and member of the UVA Esports team, representing the school in both Counter-Strike 2 (CS2) and Overwatch 2 (OW2).
 
----
+🏆 Achieved Top 4 placement in the ECAC Collegiate Tournament
 
-## Find Me
+🎯 Play competitively with a focus on teamwork, communication, and high-pressure strategy
 
-- **GitHub:** [your-username](https://github.com/your-username)  
-- **Email:** your.email@example.com  
-- **Website / Portfolio / Blog:** [https://your-website.com](https://your-website.com)
+🎮 Avid player of AAA titles across Steam, PlayStation 5, and Nintendo Switch
 
 ---
 
 *Powered by [Jekyll](https://jekyllrb.com/) with the [Minimal Light theme](https://…)
-
----
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
