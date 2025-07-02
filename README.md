@@ -6,24 +6,23 @@ I'm Super passionate about learning new skills and working with others, and I co
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - **ML algorithms, data management**
 - **DL, RL algorithms**
 
 ---
 
-## 📝 Selected Publications
+## Selected Publications
 
 1. **On the Performance of the Minimax Optimal Strategy in the Stochastic Case of Logistic Bandits** — *CONF-MLA, 2024*  
-   **Yushen Liu** [Link](https://www.ewadirect.com/proceedings/ace/article/view/16745)
-2. **Another Paper Title** — *Conference/Journal, Year*  
-   **Co-authors** — Brief description. [PDF](link) · [BibTeX](link)
-3. …
+   Yushen Liu - [LINK](https://www.ewadirect.com/proceedings/ace/article/view/16745)
+2. **Atrial fibrillation detection based on ECG** — *International Conference on Computer Network Security and Software Engineering (CNSSE 2022), 2022*  
+   Mingxin Dong, Yuan Gao, Jiang Yue, Yushen Liu, Mengxin Xie - [LINK]([link](https://doi.org/10.1117/12.2640954))
 
 ---
 
-## 🛠️ Services
+## Services
 
 #### **Conference/Workshop Roles**
 - Reviewer or committee member at conferences like **XYZ** (Years).
@@ -31,7 +30,7 @@ I'm Super passionate about learning new skills and working with others, and I co
 
 ---
 
-## 🎓 Education & Experience
+## Education & Experience
 
 - **Ph.D. in [Field]** — *[Institution]* (Start Year – )  
   Advised by **Prof. X**
@@ -41,7 +40,7 @@ I'm Super passionate about learning new skills and working with others, and I co
 
 ---
 
-## 💡 Misc
+## Misc
 
 - ✔️ Real/legal name(s) in other languages/scripts (if relevant).
 - ✔️ Fun fact or personal tidbit (e.g., “I share my name with actor…”).
@@ -50,7 +49,7 @@ I'm Super passionate about learning new skills and working with others, and I co
 
 ---
 
-## 📫 Find Me
+## Find Me
 
 - **GitHub:** [your-username](https://github.com/your-username)  
 - **Email:** your.email@example.com  
