@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm a third-year math and CS student with a strong background in research. I’ve participated in multiple research programs and proficient with data processing, algorithms, and coding. 
+Hello! I'm a fourth-year math and CS student with a strong background in research. I’ve participated in multiple research programs and proficient with data processing, algorithms, and coding. 
 
 I'm Super passionate about learning new skills and working with others, and I collaborate closely with Prof.Xugui Zhou from LSU and Prof.Andrew Warren from UVA.
 
@@ -22,11 +22,9 @@ I'm Super passionate about learning new skills and working with others, and I co
 
 ---
 
-## Research team
-
-#### **Conference/Workshop Roles**
-- Reviewer or committee member at conferences like **XYZ** (Years).
-- Other service roles.
+## Active Roles
+APS Glucose Predictions Research Team - Led by Prof.Xugui Zhou
+Computing for Global Challenges - Led by Prof.Andrew Warren and Prof.Gursharn Kaur
 
 ---
 
