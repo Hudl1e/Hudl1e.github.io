@@ -25,9 +25,9 @@ I'm Super passionate about learning new skills and working with others, and I co
 
 ## Active Roles
 
-**APS Glucose Predictions Research Team** - Led by Prof.Xugui Zhou
+- **APS Glucose Predictions Research Team** - Led by Prof.Xugui Zhou
 
-**Computing for Global Challenges** - Led by Prof.Andrew Warren and Prof.Gursharn Kaur
+- **Computing for Global Challenges** - Led by Prof.Andrew Warren and Prof.Gursharn Kaur
 
 ---
 
