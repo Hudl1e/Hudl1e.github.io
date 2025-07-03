@@ -17,14 +17,17 @@ I'm Super passionate about learning new skills and working with others, and I co
 
 1. **On the Performance of the Minimax Optimal Strategy in the Stochastic Case of Logistic Bandits** — *CONF-MLA, 2024*  
    Yushen Liu - [LINK](https://www.ewadirect.com/proceedings/ace/article/view/16745)
+   
 2. **Atrial fibrillation detection based on ECG** — *International Conference on Computer Network Security and Software Engineering (CNSSE 2022), 2022*  
    Mingxin Dong, Yuan Gao, Jiang Yue, Yushen Liu, Mengxin Xie - [LINK]([link](https://doi.org/10.1117/12.2640954))
 
 ---
 
 ## Active Roles
-APS Glucose Predictions Research Team - Led by Prof.Xugui Zhou
-Computing for Global Challenges - Led by Prof.Andrew Warren and Prof.Gursharn Kaur
+
+**APS Glucose Predictions Research Team** - Led by Prof.Xugui Zhou
+
+**Computing for Global Challenges** - Led by Prof.Andrew Warren and Prof.Gursharn Kaur
 
 ---
 
